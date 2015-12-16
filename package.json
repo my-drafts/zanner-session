@@ -1,6 +1,6 @@
 {
   "name": "zanner-session",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "zanner-session",
   "main": "index.js",
   "scripts": {
@@ -13,5 +13,17 @@
   "license": "ISC",
   "dependencies": {
     "strong-store-cluster": "^1.0.0"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergej-kucharev/zanner-session.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sergej-kucharev/zanner-session/issues"
+  },
+  "homepage": "https://github.com/sergej-kucharev/zanner-session#readme"
 }
