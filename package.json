@@ -1,0 +1,17 @@
+{
+  "name": "zanner-session",
+  "version": "1.0.0",
+  "description": "zanner-session",
+  "main": "index.js",
+  "scripts": {
+    "test": "test/index.js"
+  },
+  "keywords": [
+    "session"
+  ],
+  "author": "Sergey Kukharev",
+  "license": "ISC",
+  "dependencies": {
+    "strong-store-cluster": "^1.0.0"
+  }
+}
